@@ -1,0 +1,11 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:LaunchwaresUpdater.Resources.Locales"
+                    xmlns:system="clr-namespace:System;assembly=mscorlib">
+    <system:String x:Key="application.title">Server Name</system:String>
+    <system:String x:Key="application.starting">Güncellemeler hazırlanıyor lütfen bekleyin</system:String>
+    <system:String x:Key="application.downloadingdatas">Veriler alınıyor</system:String>
+    <system:String x:Key="application.downloadingfiles">Dosyalar İndiriliyor %percentage%% (%downloaded%/%total%)</system:String>
+    <system:String x:Key="application.finished">Tüm dosyalar indirildi, program kapatılıyor</system:String>
+    <system:String x:Key="application.noupdate">Güncelleştirme dosyaları bulunamadı. Henüz hazır olmayabilir ya da kurulumunuz bozulmuş olabilir. Yarım saat içerisinde tekrar deneyin ve yine aynı hatayı alırsanız lütfen yetkili kişinizle görüşünüz.</system:String>
+</ResourceDictionary>
